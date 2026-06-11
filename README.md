@@ -52,11 +52,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 - Stores sensitive credentials such as API keys securely without hardcoding them in the source code.
 - Prevents accidental exposure of secrets when sharing the project on GitHub or collaborating with others.
-
-#### Important Notes
-
-- Never commit the `.env` file to GitHub. Add it to `.gitignore`.
-- Each user must create their own `.env` file and provide a valid Groq API key before running the application.
+.
 ## How the Project Works
 
 ### 1. Data Cleaning
