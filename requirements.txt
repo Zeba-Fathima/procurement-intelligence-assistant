@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+python-dotenv
+sqlalchemy
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
